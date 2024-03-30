@@ -16,7 +16,7 @@ It only allows decoding, and can be integrated as a separate dependency:
 ```swift
 dependencies: [
     .package(url: "https://github.com/christophhagen/BinaryCodable", from: "3.0.0"),
-        .package(url: "https://github.com/christophhagen/LegacyBinaryCodable", from: "2.0.0"),
+    .package(url: "https://github.com/christophhagen/LegacyBinaryCodable", from: "2.0.0"),
     
 ],
 targets: [
