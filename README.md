@@ -1,7 +1,7 @@
-# ⚠️⚠️⚠️ LegacyBinaryCodable ⚠️⚠️⚠️
+# LegacyBinaryCodable
 
-This package is intended only for migration.
-For all other purposes, use [BinaryCodable](https://github.com/christophhagen/BinaryCodable).
+# ⚠️⚠️⚠️ This package is intended only for migration. For all other purposes, use [BinaryCodable](https://github.com/christophhagen/BinaryCodable) ⚠️⚠️⚠️
+
 
 This repository is a copy of [BinaryCodable](https://github.com/christophhagen/BinaryCodable) at version 2.0.3, renamed and stripped down to be included alongside newer versions of `BinaryCodable`.
 It only provides decoding capabilities and exists to allow re-encoding stored binary data in the new format.
